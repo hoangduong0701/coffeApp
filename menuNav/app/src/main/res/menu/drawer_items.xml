@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:checkable="true"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/navHome"
+        android:title="Home"/>
+
+    <item
+        android:checkable="true"
+        android:icon="@drawable/baseline_sms_24"
+        android:id="@+id/navChat"
+        android:title="Tin nhắn"/>
+    <item
+        android:checkable="true"
+        android:icon="@drawable/call_icon"
+        android:id="@+id/navCall"
+        android:title="Gọi"/>
+    <item
+        android:checkable="true"
+        android:icon="@drawable/baseline_info_24"
+        android:id="@+id/navAbout"
+        android:title="About"/>
+
+    <item android:id="@+id/other"
+        android:title="Khác"
+        >
+        <menu>
+            <item
+                android:checkable="true"
+                android:icon="@drawable/ic_browser"
+                android:id="@+id/browser"
+                android:title="Trình duyệt"/>
+            <item
+                android:checkable="true"
+                android:icon="@drawable/ic_book"
+                android:id="@+id/book"
+                android:title="Quản lý sách"/>
+
+            <item
+                android:checkable="true"
+                android:icon="@drawable/ic_settings"
+                android:id="@+id/setting"
+                android:title="Cài đặt"/>
+
+        </menu>
+
+    </item>
+
+</menu>
