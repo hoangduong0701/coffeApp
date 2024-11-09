@@ -1,7 +1,5 @@
 # CaffeShop
 
-![Logo](path/to/logo.png)
-
 ## Mô tả
 
 CaffeShop là một ứng dụng di động dành cho Android, giúp người dùng dễ dàng đặt mua cà phê và các sản phẩm liên quan. Ứng dụng cung cấp thực đơn đa dạng, giao diện thân thiện và quy trình đặt hàng nhanh chóng.
@@ -63,7 +61,7 @@ CaffeShop là một ứng dụng di động dành cho Android, giúp người d�
 
 - **Tên:** Hoàng Dương 
 - **Email:** hoangduong072001@gmail.com
-- **Zalo:** ![Screenshot](https://drive.google.com/file/d/1vvDrT6ABN709KypManRQEpXwyjefPOhv/view?usp=sharing)
+- **Zalo:** ![zalo](https://github.com/user-attachments/assets/77e62239-095a-4ed2-8799-10d4cac32f00)
 
 ## Cảm ơn
 
