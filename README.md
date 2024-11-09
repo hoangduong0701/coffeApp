@@ -16,9 +16,10 @@ CaffeShop là một ứng dụng di động dành cho Android, giúp người d�
 - **Đánh giá sản phẩm:** Người dùng có thể đánh giá và nhận xét về sản phẩm đã mua.
 
 ## Hình ảnh Demo
-
-![Màn hình chính](https://github.com/user-attachments/assets/95fae3f5-08a5-4d79-91d4-946eb95ce882) ![Giỏ hàng](https://github.com/user-attachments/assets/139681ad-9c3a-4ab8-aa81-05dd212725c4)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95fae3f5-08a5-4d79-91d4-946eb95ce882" alt="Màn hình chính" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/139681ad-9c3a-4ab8-aa81-05dd212725c4" alt="Giỏ hàng" width="45%"/>
+</p>
 ## Cài đặt
 
 ### Yêu cầu
